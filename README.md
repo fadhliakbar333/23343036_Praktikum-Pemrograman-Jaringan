@@ -16,6 +16,6 @@
 
 ---  
 
-> Disusun sebagai bagian dari praktikum pada program studi Informatika.
+> Disusun sebagai bagian dari praktikum pemrograman jaringan pada program studi Informatika.
 
 ---
