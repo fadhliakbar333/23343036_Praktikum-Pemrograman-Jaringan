@@ -1,4 +1,4 @@
-# Profil Praktikan 💻
+# Profil Mahasiswa 💻
 
 ---
 
