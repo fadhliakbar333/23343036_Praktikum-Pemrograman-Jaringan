@@ -12,11 +12,11 @@
 🎓 Informatika
 
 **Sesi**  
-🗓️ 202513430093 : INF1.62.5010  
+🗓️ 202513430093 : INF1.62.5010 
 
 ---  
 
-> Disusun sebagai bagian dari praktikum pemrograman jaringan pada program studi Informatika.
+> Disusun sebagai bagian dari praktikum pemrograman jariangan pada program studi Informatika.
 
 ---
 
